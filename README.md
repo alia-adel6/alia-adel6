@@ -15,7 +15,6 @@ Passionate about building mobile applications using Flutter & Firebase.</p>
 <div>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="40" style="margin:6px 12px"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="40" style="margin:7px 4px"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" style="margin:4px 6px"/>
 </div>
 
 <div>
@@ -28,14 +27,15 @@ Passionate about building mobile applications using Flutter & Firebase.</p>
 <div>
   <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white" height="40" style="margin:5px 10px"/>
   <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=networking&logoColor=white" height="40" style="margin:7px 5px"/>
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" style="margin:4px 6px"/>
 </div>
 
-
+<br>
 
 ## 💬 Ask me about:
 Mobile applications and designs
 
-
+<br>
 
 ## 📬 Connect with me
 <a href="https://www.linkedin.com/in/alia-adel6" target="_blank">
