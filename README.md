@@ -6,11 +6,10 @@
 
 ---
 ## 🛠️ Skills & Tools
-<div>
+
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" style="margin:3px 10px"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="40" style="margin:8px 5px"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="40" style="margin:5px 7px"/>
-</div>
 
 
 <div>
