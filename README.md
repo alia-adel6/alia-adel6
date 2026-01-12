@@ -5,23 +5,14 @@ Passionate about building mobile applications using Flutter & Firebase.
 
 ### 🚀 Skills:
 - Flutter & Dart
-- Firebase (Realtime Database, Authentication)
+- Firebase ,SQL
 - UI/UX Design
 - Vue.js, Laravel
+- Python
 - Git & GitHub
 
 ### 💬 Ask me about :
 Mobile applications and designs
-
-### 🛠️ Tools & Technologies
-
-- 💙 Flutter | Dart  
-- 🔥 Firebase  
-- 🌐 Vue.js | Laravel  
-- 🗄️ SQL  
-- 🔧 Git & GitHub  
-- 🎨 UI/UX Design  
-- 🌐 IoT & Networking
 
 ### 📫 Contact Me:
 - Email: alia.alarasi6@gmail.com  
