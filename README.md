@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Alia 👋
 
-<!--
-**alia-adel6/alia-adel6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 IT Engineer | Flutter Developer  
+Passionate about building mobile applications using Flutter & Firebase.
 
-Here are some ideas to get you started:
+### 🚀 Skills:
+- Flutter & Dart
+- Firebase (Realtime Database, Authentication)
+- UI/UX Design
+- Vue.js, Laravel
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Ask me about :
+Mobile applications and designs
+
+### 📫 Contact Me:
+- Email: alia.alarasi6@gmail.com  
+- LinkedIn: https://linkedin.com/in/alia-adel6
