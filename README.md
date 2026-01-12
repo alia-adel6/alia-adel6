@@ -1,6 +1,7 @@
-  ## Hi, I'm Alia Adel 👋
+  <p align="center">## Hi, I'm Alia Adel 👋</p>
 
  🔭 IT Engineer |🧠 Flutter Developer
+ 
   Passionate about building mobile applications using Flutter & Firebase.
 
 
