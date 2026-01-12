@@ -4,7 +4,6 @@
 Flutter Developer  
 Passionate about building mobile applications using Flutter & Firebase.
 
-### 🚀 Skills:
 ### 🛠️ Skills & Tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -22,6 +21,7 @@ Passionate about building mobile applications using Flutter & Firebase.
 ### 💬 Ask me about :
 Mobile applications and designs
 
-### 📫 Contact Me:
-- Email: alia.alarasi6@gmail.com  
-- LinkedIn: https://linkedin.com/in/alia-adel6
+### 📬 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alia-adel6)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alia.alarasi6@gmail.com)
