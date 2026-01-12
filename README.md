@@ -13,6 +13,16 @@ Passionate about building mobile applications using Flutter & Firebase.
 ### 💬 Ask me about :
 Mobile applications and designs
 
+### 🛠️ Tools & Technologies
+
+- 💙 Flutter | Dart  
+- 🔥 Firebase  
+- 🌐 Vue.js | Laravel  
+- 🗄️ SQL  
+- 🔧 Git & GitHub  
+- 🎨 UI/UX Design  
+- 🌐 IoT & Networking
+
 ### 📫 Contact Me:
 - Email: alia.alarasi6@gmail.com  
 - LinkedIn: https://linkedin.com/in/alia-adel6
