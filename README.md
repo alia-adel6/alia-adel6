@@ -10,6 +10,7 @@ Passionate about building mobile applications using Flutter & Firebase.
 - Vue.js, Laravel
 - Python
 - Git & GitHub
+- IoT & Networking
 
 ### 💬 Ask me about :
 Mobile applications and designs
