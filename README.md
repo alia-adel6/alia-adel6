@@ -30,12 +30,12 @@ Passionate about building mobile applications using Flutter & Firebase.</p>
   <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=networking&logoColor=white" height="40" style="margin:7px 5px"/>
 </div>
 
-<br>
+
 
 ## 💬 Ask me about:
 Mobile applications and designs
 
-<br>
+
 
 ## 📬 Connect with me
 <a href="https://www.linkedin.com/in/alia-adel6" target="_blank">
