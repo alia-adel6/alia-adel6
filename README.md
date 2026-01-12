@@ -23,9 +23,6 @@ Mobile applications and designs
 
 ### 📬 Connect with me
 
-<a href="https://www.linkedin.com/in/alia-adel6" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30"/>
-</a>
-<a href="mailto:alia.alarasi6@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="30"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alia-adel6)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alia.alarasi6@gmail.com)
+
